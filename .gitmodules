@@ -1,6 +1,3 @@
 [submodule "Projects/BoS-RE"]
 	path = Projects/BoS-RE
 	url = https://github.com/jasonknoll/BoS-RE
-[submodule "Projects/RetroFlavoredJam"]
-	path = Projects/RetroFlavoredJam
-	url = https://github.com/jasonknoll/RetroFlavoredJam
